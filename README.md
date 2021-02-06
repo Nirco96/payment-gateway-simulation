@@ -42,3 +42,6 @@ GET /api/chargeStatuses - Get declined charges statistics for merchant
     Header:
         merchant_identifier
 ```
+### External dependencies:
+ * express-validator
+ * axios
